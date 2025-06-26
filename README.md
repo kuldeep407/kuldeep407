@@ -1,19 +1,19 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+🌟 JavaScript &nbsp; ![JS](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&label=JavaScript)  
+🌟 TypeScript &nbsp; ![TS](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&label=TypeScript)  
+🌟 C &nbsp; ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&label=C)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+✨ React &nbsp; ![React](https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&label=React)  
+✨ Next.js &nbsp; ![Next](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&label=Next.js)  
+✨ Tailwind &nbsp; ![Tailwind](https://img.shields.io/badge/-38B2AC?logo=tailwind-css&logoColor=white&label=TailwindCSS)
 
 **Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+🚀 Node.js &nbsp; ![Node](https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&label=Node.js)  
+🚀 Express.js &nbsp; ![Express](https://img.shields.io/badge/-000000?logo=express&logoColor=white&label=Express.js)  
+🚀 MongoDB &nbsp; ![MongoDB](https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&label=MongoDB)  
+🚀 MySQL &nbsp; ![MySQL](https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&label=MySQL)  
+🔧 Git &nbsp; ![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=white&label=Git)  
+🔥 Firebase &nbsp; ![Firebase](https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&label=Firebase)
