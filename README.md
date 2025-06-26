@@ -1,19 +1,18 @@
-## 🛠️ Tech Stack
+## 👋 Hello World!
 
-**Languages:**  
-🌟 JavaScript &nbsp; ![JS](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&label=JavaScript)  
-🌟 TypeScript &nbsp; ![TS](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&label=TypeScript)  
-🌟 C &nbsp; ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&label=C)
+I’m **Kuldeep Chahar**, a self-driven **Full Stack Developer** passionate about building scalable, secure, and responsive web applications.  
+I love turning real-world problems into elegant, efficient software solutions.
 
-**Frontend:**  
-✨ React &nbsp; ![React](https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&label=React)  
-✨ Next.js &nbsp; ![Next](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&label=Next.js)  
-✨ Tailwind &nbsp; ![Tailwind](https://img.shields.io/badge/-38B2AC?logo=tailwind-css&logoColor=white&label=TailwindCSS)
+Currently working with **Node.js**, **Express.js**, **React.js**, **MongoDB**, and **Next.js** — building full-stack applications that deliver real value to users.
 
-**Backend & Tools:**  
-🚀 Node.js &nbsp; ![Node](https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&label=Node.js)  
-🚀 Express.js &nbsp; ![Express](https://img.shields.io/badge/-000000?logo=express&logoColor=white&label=Express.js)  
-🚀 MongoDB &nbsp; ![MongoDB](https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&label=MongoDB)  
-🚀 MySQL &nbsp; ![MySQL](https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&label=MySQL)  
-🔧 Git &nbsp; ![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=white&label=Git)  
-🔥 Firebase &nbsp; ![Firebase](https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&label=Firebase)
+---
+
+### 🚀 What I’m Up To
+
+• 🔭 **Actively working on:** Node.js, React.js, Express.js, MongoDB, Next.js  
+• 🌱 **Currently learning:** TypeScript to enhance code scalability and safety  
+• 👯 **Looking to collaborate on:** Real-world, impact-driven products and open-source projects  
+• 💬 **Ask me about:** Backend development, full-stack architecture, clean coding practices  
+• 📫 **Let’s connect:** [LinkedIn – Kuldeep Chahar](https://www.linkedin.com/in/kuldeep-chahar-00b776233/)
+
+---
